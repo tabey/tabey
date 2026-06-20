@@ -1,4 +1,4 @@
-![tabey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tabey&theme=transparent&hide=jupyter%20notebook)
+![tabey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tabey&theme=transparent&hide=jupyter%20notebook&layout=compact)
 
 <!--
 **tabey/tabey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
